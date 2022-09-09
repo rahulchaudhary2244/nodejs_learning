@@ -4,8 +4,10 @@ This is a small project to getting familiar with node.js and express.js environm
 
 ## Demo
 
+POST call
 ![post-call-sample.png](https://github.com/rahulchaudhary2244/media-repository/blob/main/blog_post_nodejs.PNG)
 
+GET call
 ![get-call-sample.png](https://github.com/rahulchaudhary2244/media-repository/blob/main/blog_get_nodejs.PNG)
 
 ## Run Locally
@@ -13,13 +15,13 @@ This is a small project to getting familiar with node.js and express.js environm
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git https://github.com/rahulchaudhary2244/nodejs_learning.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd nodejs_learning
 ```
 
 Install dependencies
