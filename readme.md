@@ -15,7 +15,7 @@ GET call
 Clone the project
 
 ```bash
-  git https://github.com/rahulchaudhary2244/nodejs_learning.git
+  git clone https://github.com/rahulchaudhary2244/nodejs_learning.git
 ```
 
 Go to the project directory
